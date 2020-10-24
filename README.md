@@ -1,1 +1,1 @@
-# ant https://en.wikipedia.org/wiki/Langton%27s_ant
+# The simple realization two-dimensional universal Turing machine
